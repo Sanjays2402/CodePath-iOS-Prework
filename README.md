@@ -1,4 +1,8 @@
-# Prework - *FontFlair*
+# 🎨 FontFlair — CodePath iOS Prework
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 
 Submitted by: **Sanjay Santhanam**
 
@@ -6,37 +10,47 @@ Submitted by: **Sanjay Santhanam**
 
 Time spent: **3** hours spent in total
 
-## Required Features
+## ✅ Required Features
 
 The following **required** functionality is completed:
 
-- [x] Users are see a screen with three labels and a button
+- [x] Users see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+## ✨ Additional Features
 
-TO BE ADDED
+- 🔤 **Font Size Control** — Change text size dynamically
+- 🎨 **Color Customization** — Modify text and background colors
+- 🔄 **Reset Button** — Reset all changes to defaults
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## 🛠️ Tech Stack
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+| Component | Technology |
+|-----------|-----------|
+| **Language** | Swift |
+| **IDE** | Xcode |
+| **Framework** | UIKit |
 
-## App Brainstorming (Step 4)
+## 📁 Project Structure
 
-## Notes
+```
+├── Codepath.xcodeproj/    # Xcode project
+├── Test/
+│   ├── ViewController.swift    # Main view controller
+│   ├── AppDelegate.swift       # App delegate
+│   ├── SceneDelegate.swift     # Scene delegate
+│   ├── Assets.xcassets/        # App assets
+│   └── Base.lproj/
+│       ├── Main.storyboard     # UI layout
+│       └── LaunchScreen.storyboard
+└── README.md
+```
 
-Describe any challenges encountered while building the app.
+## 📝 Notes
 
-Nothing much. The docs provided on Swift's official website were helpful.
+Nothing much challenging. The docs provided on Swift's official website were helpful.
 
-## License
+## 📄 License
 
     Copyright [2023] [Sanjay Santhanam]
 
@@ -51,3 +65,11 @@ Nothing much. The docs provided on Swift's official website were helpful.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+## 👤 Author
+
+**Sanjay Santhanam**
+
+---
+
+⭐ Star this repo if you found it useful!
